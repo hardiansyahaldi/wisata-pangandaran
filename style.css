@@ -1,0 +1,16 @@
+body {
+  min-height: 1000px;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #e2f7ff;
+  background-size: cover;
+}
+
+.Portofolio {
+  background-color: #e2f7ff;
+}
+
+.kartu-patners {
+  position: relative;
+}
